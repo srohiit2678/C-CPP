@@ -1,0 +1,34 @@
+1. 13245 - Attendance code
+2. LP.postjoining@infosys.com -> send document LWD over the email cc- recruiter name
+
+
+Date : 03 Jan,2023
+
+Key points:
+
+1. MSA pin will provide, generate the IT handbook
+2. BPHR - We will receive your BPHR details from onboarding team with Subject line "Welcome To Unit Name".
+3. From today apply attendance over the InfyMe app
+4. Apply WFH after BPHR details, InfyMe App.
+5. BPHR details recived  -> drop email from your InfyMe email id asking them to share your reporting mamanger details.
+6. AHD -> IS -> Attendance -> Attendance record discrepancy.
+7. Update bank details on launchpad and InfyMe app.
+8. E-docket in Infyme -> upload all the documents. Will took 10-12 days.
+9. CCD team email Id - CCD_ISC@infosys.com CCD_GSC@infosys.com
+10. Citrix team -> ISCitrixSupport@infosys.com
+11. Save nomation forms in PDF Formate : EmployeeNumber and create Zip file and upload on LaunchpadApp.
+12. After 60 days of infosys joining debit pf account
+13. SPARSH-AHD-CAG-IL-RETIRALS tranasfer pf path.
+14. Job Level detail -> InfyMe App
+15. Manually can fill form.
+16. C-Life sesion : Note* High performance work ethics.
+17.
+ortant Apps a. Microsoft Authenticator (Play store/ App store) – Required for MFA authentication; generates 6-digit passcode every 30 seconds. b. iRemote – Used for accessing Infosys apps through personal laptop. c. InfyMe -There are 2 versions. 1. Phone – Need Intune Company Portal (Play store/ App store). 2. Laptop – Accessible through official laptop over VPN d. Apps to be installed on phone - InfyMe, Outlook, Teams (Intune Company Portal mandatory)
+
+
+Date : 03, Jan 2022
+
+1. Ui technologies : Web technology Landscape in lex app -> cources.
+shivani cholkar
+
+anil.mohinty@infosys.com
