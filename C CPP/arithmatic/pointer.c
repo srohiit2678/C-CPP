@@ -6,9 +6,12 @@ void main()
    int a=1;
    int *b;
       b=&a;
-
-      printf("value of a=%d\n",a);
-      printf("address of a=%p\n",&a);
-      printf("address of a by b=%ds\n",b);
-      printf("value of a by pointer b=%d\n",*b);
+b=(int *)malloc(5*sizeof(int));
+for(int i=0;i<5;i++){
+   printf("%d\n",b[i]);
+}
+      // printf("value of a=%d\n",a);
+      // printf("address of a=%p\n",&a);
+      // printf("address of a by b=%ds\n",b);
+      // printf("value of a by pointer b=%d\n",*b);
 }
